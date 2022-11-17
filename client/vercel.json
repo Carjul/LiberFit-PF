@@ -2,8 +2,8 @@
   "redirects": [
     {
       "source": "/home",
-      "destination": "/src/page/Home",
-      "statusCode": 200
+      "destination": "https://liberfitpf.vercel.app/home",
+      "statusCode": 201
     }
   ]
 }
