@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/home",
+      "destination": "/",
+      "statusCode": 200
+    }
+  ]
+}
