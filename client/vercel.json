@@ -3,7 +3,7 @@
     {
       "source": "/home",
       "destination": "https://liberfitpf.vercel.app/home",
-      "statusCode": 201
+      "statusCode": 404
     }
   ]
 }
