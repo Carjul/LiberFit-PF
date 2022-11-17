@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/home",
-      "destination": "/home",
+      "destination": "src\page\Home.tsx",
       "statusCode": 200
     }
   ]
